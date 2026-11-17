@@ -61,10 +61,10 @@ Our QA strategy spans multiple testing methodologies to ensure functional reliab
 
 ## 👥 QA Team & Roles (DEPI Project)
 
-- **Ahmed Hussein** — Team Leader / Senior QA Specialist *(Schedule, Strategy, Automation Architecture, Integration)*
+
 - **Shaza Rabee** — QA Engineer / Business Analyst *(Product Analysis, Scope Definition, Manual Test Suite Design)*
 - **Esraa Fathy** — QA Engineer / Test Strategist *(SMART Objectives, Quality Metrics, Entry/Exit Criteria)*
-- **Alaa Shehata** — QA Engineer / Infrastructure Lead *(Test Environment Setup, DB Configuration, CI/CD Integration)*
+- **Alaa Shehata** — Team Leader / Infrastructure Lead *(Test Environment Setup, DB Configuration, CI/CD Integration)*
 - **Madeha Mahmoud** — QA Engineer / Deliverables Lead *(Test Deliverables Tracking, RACI Matrix, Status Reporting)*
 - **Toqa Adel** — QA Engineer / Risk Analyst *(Risk Management, Bottlenecks, Contingency Planning)*
 
