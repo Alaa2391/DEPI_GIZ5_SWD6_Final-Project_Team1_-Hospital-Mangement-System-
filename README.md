@@ -79,8 +79,9 @@ Our QA strategy spans multiple testing methodologies to ensure functional reliab
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/Ghonem23/HMS-Software-Testing-Suite.git](https://github.com/Ghonem23/HMS-Software-Testing-Suite.git)
-cd HMS-Software-Testing-Suite
+git clone https://github.com/Alaa2391/DEPI_GIZ5_SWD6_Final-Project_Team1_-Hospital-Mangement-System-.git
+cd DEPI_GIZ5_SWD6_Final-Project_Team1_-Hospital-Mangement-System-
+
 ```
 
 ### 2. Execute UI Automation Suite (Selenium + Cucumber BDD)
